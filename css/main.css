@@ -930,6 +930,9 @@ body {
   .header-container{
     padding-top: 0;
   }
+  .btn.orange{
+    margin: 0 auto;
+  }
   .down-btn {
     display: none;
   }
