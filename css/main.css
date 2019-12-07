@@ -852,11 +852,17 @@ body {
 /* MEDIA QUERIES */
 
 @media screen and (max-width: 1140px) {
+  .header-content {
+    margin-left: 15px;
+  }
   .about-container {
     justify-content: center;
   }
   .gallery-container {
     padding: 0 10px;
+  }
+  .blog__text {
+    width: auto;
   }
   .gallery-first {
     display: -webkit-box;
