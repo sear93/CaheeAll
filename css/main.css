@@ -154,6 +154,10 @@ body {
   line-height: 28px;
 }
 
+.about__content__text p {
+  padding: 0 15px;
+}
+
 .btn {
   background-color: #f72b3b;
   width: 200px;
@@ -347,7 +351,8 @@ body {
 .gallery__text {
   font-weight: 300;
   font-size: 17px;
-  margin-bottom: 40q;
+  margin-bottom: 40px;
+  padding: 0 15px;
 }
 
 .gallery-container {
@@ -1014,6 +1019,7 @@ body {
   }
   .blog__text {
     width: 100%;
+    padding: 0 15px;
   }
   .subscribe form {
     -webkit-flex-wrap: wrap;
@@ -1032,6 +1038,7 @@ body {
   }
   .subscribe__text {
     text-shadow: 2px 2px 1px rgba(255, 255, 255, 0.6);
+    padding: 0 15px;
   }
 }
 
